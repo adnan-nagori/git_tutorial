@@ -15,7 +15,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
 	<script>
 		// var url = "http://laari.pk/reset_password/2/5fc0fbcfcab1185e4a21e975";
-		var url = 'http://laatri.com/reset_password/?2/5fc5cccecab1185e4a21e979';
+		var url = 'http://laatri.com/reset_password/?2/5fc5cccecab1185eddd4a21e979';
 		// var url = "http://laari.pk/reset_password/";
 
 		$.validator.addMethod('mypassword', function(value, element) {
